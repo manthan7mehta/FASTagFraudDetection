@@ -10,7 +10,7 @@ FASTag is a system used in India for automatic toll payments via RFID. While it 
 
 ---
 
-### Objectives:
+## 📊 Objectives:
 - Analyze transaction data for patterns indicating fraud.
 - Preprocess and visualize the dataset.
 - Build and evaluate ML models for fraud detection.
