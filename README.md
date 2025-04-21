@@ -21,8 +21,6 @@ FASTag is a system used in India for automatic toll payments via RFID. While it 
 ## 📁 Repository Contents
 
 - `FASTagFraudDetection.ipynb` – Main notebook with all EDA, preprocessing, model training, and evaluation.
-- `model_performance.png` – *(optional)* Graph showing accuracy or confusion matrix.
-- `LICENSE` – MIT License file.
 - `README.md` – This documentation file.
 
 ---
