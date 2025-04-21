@@ -72,7 +72,7 @@ Feature importance analysis revealed key indicators of fraud.
 
 ## 🧑‍💻 Author
 **Manthan Mehta**  
-- [LinkedIn](https://www.linkedin.com/in/manthan7mehta)  
+- [LinkedIn](https://www.linkedin.com/in/manthan-mehta-07mm/)  
 - [GitHub](https://github.com/manthan7mehta)
 
 ---
